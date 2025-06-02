@@ -1,0 +1,8 @@
+{'0': 1,
+ 'DARK': 2,
+ 'DIVINE': 3,
+ 'EARTH': 4,
+ 'FIRE': 5,
+ 'LIGHT': 6,
+ 'WATER': 7,
+ 'WIND': 8}
