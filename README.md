@@ -35,6 +35,11 @@ Card images and data are sourced from the [YGOPRODeck API](https://ygoprodeck.co
 
 ---
 
+## ❗ Pay Attention
+
+The **file path** in main.py, card_data.py, car5d_database.py, image_processing.py has to be modified to** your own file path**!!
+
+---
 ## ❗ Disclaimer
 
 - This tool is intended only for personal use.
