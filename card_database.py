@@ -3,7 +3,7 @@ from tkinter import ttk, messagebox
 from card_data import load_card_data
 
 # Ensure card_data is loaded correctly
-card_data = load_card_data("D:/Yu-Gi-Oh MD/Card Reader/Database/card_data.json")
+card_data = load_card_data("Your path of card_data.json")
 deck_cache = {}
 def open_card_database(selected_deck, main_card_list_text, extra_card_list_text, display_deck_cards_callback):
     if not selected_deck:
