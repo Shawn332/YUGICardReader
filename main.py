@@ -43,9 +43,10 @@ def load_breakpoint_data(filepath):
     with open(filepath, 'r', encoding='utf-8') as file:
         return json.load(file)
 
-card_data = load_card_data("D:/Yu-Gi-Oh MD/Card Reader/Database/card_data.json")
-hash_data = load_hash_data("D:/Yu-Gi-Oh MD/Card Reader/Database/hash.json")
-breakpoint_data = load_breakpoint_data("D:/Yu-Gi-Oh MD/Card Reader/Database/breakpoint.json")
+# Type in your own path for the document
+card_data = load_card_data("Path of card_data.json")
+hash_data = load_hash_data("Path of hash.json")
+breakpoint_data = load_breakpoint_data("Path of breakpoint.json")
 
 # Ensure hash_data is in the correct format
 hash_data = [[entry[0], int(entry[1])] for entry in hash_data]
