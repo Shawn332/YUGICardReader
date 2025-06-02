@@ -1,6 +1,3 @@
-Thanks for the clarification! Here's your improved `README.md` content in code format, ready to be pasted directly into your `README.md` file:
-
-```markdown
 # YUGICardReader – *Not a Cheating Tool!*
 
 **Note:** This project was discontinued in **May 2024** because I no longer play Yu-Gi-Oh. It was created purely for fun and to enhance my personal gameplay experience.
