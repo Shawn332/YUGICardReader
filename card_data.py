@@ -6,7 +6,7 @@ def load_card_data(file_path):
         return json.load(f)
 
 # Load card data
-card_data = load_card_data("D:/Yu-Gi-Oh MD/Card Reader/Database/card_data.json")
+card_data = load_card_data("Your path of card_data.json")
 
 # Function to load hash data
 def load_hash_data(file_path):
