@@ -21,7 +21,7 @@ def initialize_hash_data(filepath):
     return hash_values, cids
 
 # Initialize hash data
-hash_values, cids = initialize_hash_data("D:/Yu-Gi-Oh MD/Card Reader/Database/hash.json")
+hash_values, cids = initialize_hash_data("Your path of hash.json")
 
 # Function to take screenshot
 def screenshot():
