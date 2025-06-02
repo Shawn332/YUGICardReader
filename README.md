@@ -49,4 +49,4 @@ Card images and data are sourced from the [YGOPRODeck API](https://ygoprodeck.co
 **Project discontinued** as of May 2024. You are welcome to fork, study, or continue development if you find it useful!
 ```
 
-Let me know if you want to add setup instructions, usage screenshots, or license information!
+**P.S.** I am publishing this project **solely to meet a portfolio showcase requirement**.
