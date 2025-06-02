@@ -1,0 +1,226 @@
+{
+    "main": [
+        {
+            "name": "PSY-Frame Driver",
+            "cid": 8943
+        },
+        {
+            "name": "Maxx \"C\"",
+            "cid": 7111
+        },
+        {
+            "name": "Maxx \"C\"",
+            "cid": 7111
+        },
+        {
+            "name": "Maxx \"C\"",
+            "cid": 7111
+        },
+        {
+            "name": "PSY-Framegear Gamma",
+            "cid": 8950
+        },
+        {
+            "name": "PSY-Framegear Gamma",
+            "cid": 8950
+        },
+        {
+            "name": "Ash Blossom & Joyous Spring",
+            "cid": 711
+        },
+        {
+            "name": "Ash Blossom & Joyous Spring",
+            "cid": 711
+        },
+        {
+            "name": "Ash Blossom & Joyous Spring",
+            "cid": 711
+        },
+        {
+            "name": "Barrier Statue of the Abyss",
+            "cid": 882
+        },
+        {
+            "name": "Edge Imp Chain",
+            "cid": 3465
+        },
+        {
+            "name": "Edge Imp Chain",
+            "cid": 3465
+        },
+        {
+            "name": "Cornfield Coatl",
+            "cid": 2013
+        },
+        {
+            "name": "Cornfield Coatl",
+            "cid": 2013
+        },
+        {
+            "name": "Cornfield Coatl",
+            "cid": 2013
+        },
+        {
+            "name": "Gazelle the King of Mythical Claws",
+            "cid": 4565
+        },
+        {
+            "name": "Gazelle the King of Mythical Claws",
+            "cid": 4565
+        },
+        {
+            "name": "Gazelle the King of Mythical Claws",
+            "cid": 4565
+        },
+        {
+            "name": "Mirror Swordknight",
+            "cid": 7458
+        },
+        {
+            "name": "Mirror Swordknight",
+            "cid": 7458
+        },
+        {
+            "name": "Mirror Swordknight",
+            "cid": 7458
+        },
+        {
+            "name": "Big-Winged Berfomet",
+            "cid": 1070
+        },
+        {
+            "name": "Big-Winged Berfomet",
+            "cid": 1070
+        },
+        {
+            "name": "Duamutef, Blessing of Horus",
+            "cid": 3369
+        },
+        {
+            "name": "Imsety, Glory of Horus",
+            "cid": 5721
+        },
+        {
+            "name": "Imsety, Glory of Horus",
+            "cid": 5721
+        },
+        {
+            "name": "Imsety, Glory of Horus",
+            "cid": 5721
+        },
+        {
+            "name": "Polymerization",
+            "cid": 8749
+        },
+        {
+            "name": "Polymerization",
+            "cid": 8749
+        },
+        {
+            "name": "Frightfur Patchwork",
+            "cid": 4339
+        },
+        {
+            "name": "Frightfur Patchwork",
+            "cid": 4339
+        },
+        {
+            "name": "King's Sarcophagus",
+            "cid": 6177
+        },
+        {
+            "name": "Called by the Grave",
+            "cid": 1563
+        },
+        {
+            "name": "Called by the Grave",
+            "cid": 1563
+        },
+        {
+            "name": "Chimera Fusion",
+            "cid": 1758
+        },
+        {
+            "name": "Chimera Fusion",
+            "cid": 1758
+        },
+        {
+            "name": "Chimera Fusion",
+            "cid": 1758
+        },
+        {
+            "name": "Infinite Impermanence",
+            "cid": 5810
+        },
+        {
+            "name": "Infinite Impermanence",
+            "cid": 5810
+        },
+        {
+            "name": "Infinite Impermanence",
+            "cid": 5810
+        }
+    ],
+    "extra": [
+        {
+            "name": "Garura, Wings of Resonant Life",
+            "cid": 4542
+        },
+        {
+            "name": "Berfomet the Mythical King of Phantom Beasts",
+            "cid": 1031
+        },
+        {
+            "name": "Berfomet the Mythical King of Phantom Beasts",
+            "cid": 1031
+        },
+        {
+            "name": "Chimera the King of Phantom Beasts",
+            "cid": 1761
+        },
+        {
+            "name": "Chimera the King of Phantom Beasts",
+            "cid": 1761
+        },
+        {
+            "name": "Magnum the Reliever",
+            "cid": 6882
+        },
+        {
+            "name": "Chimera the Illusion Beast",
+            "cid": 1760
+        },
+        {
+            "name": "Chimera the Illusion Beast",
+            "cid": 1760
+        },
+        {
+            "name": "Guardian Chimera",
+            "cid": 5216
+        },
+        {
+            "name": "Guardian Chimera",
+            "cid": 5216
+        },
+        {
+            "name": "PSY-Framelord Omega",
+            "cid": 8952
+        },
+        {
+            "name": "Number 90: Galaxy-Eyes Photon Lord",
+            "cid": 8086
+        },
+        {
+            "name": "Hieratic Sky Dragon Overlord of Heliopolis",
+            "cid": 5514
+        },
+        {
+            "name": "Muckraker From the Underworld",
+            "cid": 7604
+        },
+        {
+            "name": "S:P Little Knight",
+            "cid": 9692
+        }
+    ]
+}

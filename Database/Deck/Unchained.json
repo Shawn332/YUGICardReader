@@ -1,0 +1,226 @@
+{
+    "main": [
+        {
+            "name": "PSY-Frame Driver",
+            "cid": 8943
+        },
+        {
+            "name": "Effect Veiler",
+            "cid": 3473
+        },
+        {
+            "name": "Effect Veiler",
+            "cid": 3473
+        },
+        {
+            "name": "Maxx \"C\"",
+            "cid": 7111
+        },
+        {
+            "name": "Maxx \"C\"",
+            "cid": 7111
+        },
+        {
+            "name": "Maxx \"C\"",
+            "cid": 7111
+        },
+        {
+            "name": "PSY-Framegear Gamma",
+            "cid": 8950
+        },
+        {
+            "name": "PSY-Framegear Gamma",
+            "cid": 8950
+        },
+        {
+            "name": "Tour Guide From the Underworld",
+            "cid": 11772
+        },
+        {
+            "name": "Tour Guide From the Underworld",
+            "cid": 11772
+        },
+        {
+            "name": "Tour Guide From the Underworld",
+            "cid": 11772
+        },
+        {
+            "name": "Fiendish Rhino Warrior",
+            "cid": 4015
+        },
+        {
+            "name": "Ash Blossom & Joyous Spring",
+            "cid": 711
+        },
+        {
+            "name": "Ash Blossom & Joyous Spring",
+            "cid": 711
+        },
+        {
+            "name": "Ash Blossom & Joyous Spring",
+            "cid": 711
+        },
+        {
+            "name": "Unchained Twins - Aruha",
+            "cid": 12123
+        },
+        {
+            "name": "Unchained Twins - Aruha",
+            "cid": 12123
+        },
+        {
+            "name": "Unchained Twins - Aruha",
+            "cid": 12123
+        },
+        {
+            "name": "Unchained Twins - Rakea",
+            "cid": 12124
+        },
+        {
+            "name": "Unchained Twins - Sarama",
+            "cid": 12125
+        },
+        {
+            "name": "Unchained Soul of Sharvara",
+            "cid": 12121
+        },
+        {
+            "name": "Unchained Soul of Sharvara",
+            "cid": 12121
+        },
+        {
+            "name": "Unchained Soul of Sharvara",
+            "cid": 12121
+        },
+        {
+            "name": "Unchained Soul of Shyama",
+            "cid": 12122
+        },
+        {
+            "name": "Unchained Soul of Disaster",
+            "cid": 12119
+        },
+        {
+            "name": "Abominable Unchained Soul",
+            "cid": 48
+        },
+        {
+            "name": "Abomination's Prison",
+            "cid": 49
+        },
+        {
+            "name": "Abomination's Prison",
+            "cid": 49
+        },
+        {
+            "name": "Abomination's Prison",
+            "cid": 49
+        },
+        {
+            "name": "Called by the Grave",
+            "cid": 1563
+        },
+        {
+            "name": "Called by the Grave",
+            "cid": 1563
+        },
+        {
+            "name": "Crossout Designator",
+            "cid": 2089
+        },
+        {
+            "name": "Infinite Impermanence",
+            "cid": 5810
+        },
+        {
+            "name": "Infinite Impermanence",
+            "cid": 5810
+        },
+        {
+            "name": "Infinite Impermanence",
+            "cid": 5810
+        },
+        {
+            "name": "Abominable Chamber of the Unchained",
+            "cid": 47
+        },
+        {
+            "name": "Abominable Chamber of the Unchained",
+            "cid": 47
+        },
+        {
+            "name": "Escape of the Unchained",
+            "cid": 3699
+        },
+        {
+            "name": "Escape of the Unchained",
+            "cid": 3699
+        },
+        {
+            "name": "Escape of the Unchained",
+            "cid": 3699
+        }
+    ],
+    "extra": [
+        {
+            "name": "D/D/D Wave High King Caesar",
+            "cid": 2437
+        },
+        {
+            "name": "D/D/D Wave High King Caesar",
+            "cid": 2437
+        },
+        {
+            "name": "Unchained Soul Lord of Yama",
+            "cid": 12117
+        },
+        {
+            "name": "Unchained Soul Lord of Yama",
+            "cid": 12117
+        },
+        {
+            "name": "Unchained Soul of Rage",
+            "cid": 12120
+        },
+        {
+            "name": "Unchained Soul of Rage",
+            "cid": 12120
+        },
+        {
+            "name": "Dharc the Dark Charmer, Gloomy",
+            "cid": 2870
+        },
+        {
+            "name": "Spright Elf",
+            "cid": 10618
+        },
+        {
+            "name": "Muckraker From the Underworld",
+            "cid": 7604
+        },
+        {
+            "name": "S:P Little Knight",
+            "cid": 9692
+        },
+        {
+            "name": "S:P Little Knight",
+            "cid": 9692
+        },
+        {
+            "name": "Unchained Soul of Anguish",
+            "cid": 12118
+        },
+        {
+            "name": "Knightmare Gryphon",
+            "cid": 6197
+        },
+        {
+            "name": "Unchained Abomination",
+            "cid": 12116
+        },
+        {
+            "name": "Underworld Goddess of the Closed World",
+            "cid": 12133
+        }
+    ]
+}
